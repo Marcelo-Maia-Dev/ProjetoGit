@@ -1,7 +1,8 @@
 # ProjetoGit
 Projeto em que ensino a utilização do Git.
 
-##Comandos importantes:
+
+##**Comandos importantes:**
 
 echo "# ProjetoGit" >> README.md
 
